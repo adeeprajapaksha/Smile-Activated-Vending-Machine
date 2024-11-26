@@ -1,2 +1,11 @@
 # Smile-Activated-Vending-Machine
-On Valentine’s Day 2024, we created a Smile-Activated Vending Machine! Using machine learning, it detected two people smiling for 3 seconds, captured their photo, and dispensed a brand discount card via an Arduino-powered machine. Photos were showcased online, allowing users to share them via WhatsApp. Smiles met innovation and connection!
+On Valentine’s Day 2024, we spread smiles and surprises with our Smile-Activated Vending Machine!
+
+As part of a special brand activation, we combined cutting-edge technology and creativity to deliver an interactive experience that left everyone smiling. Here’s how it worked:
+
+✨ Using machine learning technology with TensorFlow and OpenCV, our system detected when two people smiled together in front of the camera.
+✨ Holding their smiles for 3 seconds triggered the camera to capture their photo.
+✨ A custom-built, Arduino-powered vending machine then dispensed a special discount card for the brand, giving participants a reason to celebrate even more.
+
+And there’s more!
+💌 The captured images were uploaded to a beautifully designed online gallery, where participants could view their moments. They could also select their photo and request it to be sent directly to their WhatsApp for keepsakes.
